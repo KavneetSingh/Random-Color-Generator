@@ -1,0 +1,16 @@
+
+.colGen{
+    text-align: center;
+    /* align-items: center; */
+    /* display: flexbox; */
+    /* align-self: center; */
+    /* background-color: antiquewhite; */
+}
+
+
+.box{
+    height: 100px;
+    width: 500px;
+    border:1px solid black;
+    margin: auto;
+}
